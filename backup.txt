@@ -1,0 +1,19 @@
+7INVERTED BACKUP!
+f4.txt;f3.txt
+#0;am;2;f1.txt;1;f4.txt;1#
+#0;are;2;f2.txt;1;f1.txt;2#
+#1;bye;1;f3.txt;1#
+#1;batman;1;f4.txt;1#
+#6;good;1;f3.txt;1#
+#7;heAlth;1;f2.txt;1#
+#7;HOW;2;f2.txt;1;f1.txt;2#
+#7;hello;2;f2.txt;1;f1.txt;1#
+#7;hi;2;f2.txt;1;f1.txt;1#
+#8;i;2;f1.txt;1;f4.txt;1#
+#8;is;1;f2.txt;1#
+#14;old;1;f1.txt;1#
+#17;rony;1;f1.txt;1#
+#24;Your;1;f2.txt;1#
+#24;you;2;f2.txt;1;f1.txt;2#
+#26;10;2;f2.txt;1;f1.txt;1#
+#27;.;1;f2.txt;1#
