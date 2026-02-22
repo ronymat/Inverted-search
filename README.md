@@ -1,15 +1,11 @@
-# 🔎 Inverted Search Using Hash Table (C)
+Inverted Search Using Hash Table (C)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project implements an **Inverted Index** using the C programming language.  
 It indexes words from multiple text files and enables efficient searching of words along with the files in which they appear and their frequency count.
 
-An inverted index is a fundamental data structure used in **search engines** for fast text retrieval.
-
----
-
-## 🚀 Features
+##  Features
 
 - Create database from multiple input text files
 - Display indexed database contents
@@ -19,9 +15,8 @@ An inverted index is a fundamental data structure used in **search engines** for
 - Prevent duplicate file indexing
 - Efficient lookup using hashing
 
----
 
-## 🏗 Data Structures Used
+## Data Structures Used
 
 - **Hash Table (28 Buckets)**
   - `a–z` → 0–25
@@ -42,9 +37,8 @@ An inverted index is a fundamental data structure used in **search engines** for
 - **Singly Linked List**
   - Maintains list of input files
 
----
 
-## ⚙️ How It Works
+## How It Works
 
 1. Words from input files are read one by one.
 2. A hash index is calculated using the first character.
@@ -57,7 +51,6 @@ An inverted index is a fundamental data structure used in **search engines** for
    - Attach sub-node with file details
 5. Database can be saved and later reconstructed using update functionality.
 
----
 
 ## 🛠 Build Instructions (Using Makefile)
 
