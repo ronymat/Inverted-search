@@ -52,7 +52,7 @@ It indexes words from multiple text files and enables efficient searching of wor
 5. Database can be saved and later reconstructed using update functionality.
 
 
-## 🛠 Build Instructions (Using Makefile)
+##  Build Instructions (Using Makefile)
 
 This project uses a **Makefile** for compilation.
 
